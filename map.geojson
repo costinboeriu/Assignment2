@@ -23,7 +23,7 @@
       "properties": {
         "info": "This is a point feature."
       }       
-      },    
+      },     
    { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-79.345324,43.775756]},
       "properties": {
