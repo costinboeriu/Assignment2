@@ -7,25 +7,26 @@
       }
       },
     { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [43.766942,-79.386302]},
+      "geometry": {"type": "Point", "coordinates": [-79.386302,43.766942]},
       "properties": {
         "info": "This is a point feature."
+                "Penis"
       }
       },   
    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [43.769146,-79.375963]},
+      "geometry": {"type": "Point", "coordinates": [-79.375963,43.769146]},
       "properties": {
         "info": "This is a point feature."
       }
       },    
    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [43.771019,-79.367818]},
+      "geometry": {"type": "Point", "coordinates": [-79.367818,43.771019]},
       "properties": {
         "info": "This is a point feature."
       }       
       },    
    { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [43.775756,-79.345324]},
+      "geometry": {"type": "Point", "coordinates": [-79.345324,43.775756]},
       "properties": {
         "info": "This is a point feature."
       }
@@ -34,8 +35,8 @@
        "geometry": {
          "type": "LineString",
          "coordinates": [
-            [43.761554,-79.410738], [43.766942,-79.386302], [43.769146,-79.375963],
-            [43.771019,-79.367818], [43.775756,-79.345324] 
+            [-79.410738,43.761554], [-79.386302,43.766942], [-79.375963,43.769146],
+            [-79.367818,43.771019], [-79.345324,43.775756] 
            ]
        },
        "properties": {
