@@ -3,7 +3,6 @@
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-79.410738,43.761554]},
       "properties": {
-        "Costin": "TTC",
         "info": "Bessarion"      
       }
       },
