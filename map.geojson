@@ -3,7 +3,8 @@
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-79.410738,43.761554]},
       "properties": {
-        "info": "Bessarion Wheelchair","Yes"
+        "info": "Bessarion",
+                "Yes"
       }
       },
     { "type": "Feature",
