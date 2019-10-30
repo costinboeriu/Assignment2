@@ -3,7 +3,8 @@
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-79.410738,43.761554]},
       "properties": {
-        "info": "Bessarion","TTC"      
+        "info": "Bessarion
+                 TTC"
       }
       },
     { "type": "Feature",
