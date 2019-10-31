@@ -3,7 +3,7 @@
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-79.410738,43.761554]},
       "properties": {
-        "info": "Domo arigato mr roboto, domo....domo...domo arigato mr roboto i thank you very mucho something something"
+        "info": "Domo                                               mr roboto i thank you very mucho something something"
       }
       },
     { "type": "Feature",
