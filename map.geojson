@@ -7,7 +7,7 @@
       }
       },
     { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [-79.386302,43.766942]}, //skdjfjsd
+      "geometry": {"type": "Point", "coordinates": [-79.386302,43.766942]}, 
       "properties": {
         "info": "<b>Bayview Station</b> <br> <b> Wheelchair Accessibility:</b> Yes <br> <b> Connections</b> <br> 11A: Bayview <br> 85/85B/85J/385: Sheppard East"
       }
