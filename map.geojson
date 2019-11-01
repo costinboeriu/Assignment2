@@ -3,14 +3,13 @@
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-79.410738,43.761554]},
       "properties": {
-        "info": "<b> Sheppard-Yonge Station </b> <br> <b> Wheelchair Accessibility</b> Yes <br> <b>Connections</b> TTC Line 1 <br> TTC surface connections" 
+        "info": "<b> Sheppard-Yonge Station </b> <br> <b> Wheelchair Accessibility</b> Yes <br> <b>Connections</b> TTC Line 1 <br> TTC Routes: 84: Sheppard West <br> 85: Sheppard East <br> 97F: Yonge <br> 98: Willowdale Senac <br> 984: Sheppard West Express <br> 320: Yonge <br> 384 Sheppard West (Nightbus) <br> 385 Sheppard East (Nightbus)" 
       }
       },
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-79.386302,43.766942]},
       "properties": {
-        "info": "<b>Bayview Station</b> <br> <b> Wheelchair Accessibility:</b> Yes <br> <b> 
-Connections</b> TTC surface connections"
+        "info": "<b>Bayview Station</b> <br> <b> Wheelchair Accessibility:</b> Yes <br> <b> Connections</b> TTC surface connections"
       }
       },   
    { "type": "Feature",
