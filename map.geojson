@@ -21,7 +21,7 @@
    { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-79.367818,43.771019]},
       "properties": {
-        "info": "<b>Leslie Station</b> <br> <b> Wheelchair Accessibility: </b> Yes <br> <b>Connections</b> <br> 85/85B/85J/385: Sheppard East <b> 51: Leslie"
+        "info": "<b>Leslie Station</b> <br> <b> Wheelchair Accessibility: </b> Yes <br> <b>Connections</b> <br> 85/85B/85J/385: Sheppard East <br> 51: Leslie"
       }       
       },     
    { "type": "Feature", 
