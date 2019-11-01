@@ -3,7 +3,7 @@
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-79.410738,43.761554]},
       "properties": {
-        "info": "<b>Sheppard-Yonge Station<b> <br> <b>Wheelchair Accessibility:<b> Yes <br> <b>Connections:<b> TTC Line 1 <br> TTC surface connections" 
+        "info": "<b> Sheppard-Yonge Station </b> <br> <b> Wheelchair Accessibility</b> Yes <br> <b>Connections</b> TTC Line 1 <br> TTC surface connections" 
       }
       },
     { "type": "Feature",
