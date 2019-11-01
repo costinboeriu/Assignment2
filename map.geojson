@@ -3,7 +3,7 @@
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-79.410738,43.761554]},
       "properties": {
-        "info": "Domo <br> Domo" 
+        "info": "Sheppard-Yonge Station <b> Wheelchair Accessibility: Yes <br> Connections: TTC Line 1 <br> TTC surface connections" 
       }
       },
     { "type": "Feature",
