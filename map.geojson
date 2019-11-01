@@ -15,19 +15,19 @@
    { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-79.375963,43.769146]},
       "properties": {
-        "info": "<b>Bessarion Station</b> <b> Wheelchair Accessibility: </b> Yes <br> <b>Connections</b> <br> 85/85B/85J/385: Sheppard East"
+        "info": "<b>Bessarion Station</b> <br> <b> Wheelchair Accessibility: </b> Yes <br> <b>Connections</b> <br> 85/85B/85J/385: Sheppard East"
       }
       },    
    { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [-79.367818,43.771019]},
       "properties": {
-        "info": "<b>Leslie Station</b> <b> Wheelchair Accessibility: </b> Yes <br> <b>Connections</b> <br> 85/85B/85J/385: Sheppard East <b> 51: Leslie"
+        "info": "<b>Leslie Station</b> <br> <b> Wheelchair Accessibility: </b> Yes <br> <b>Connections</b> <br> 85/85B/85J/385: Sheppard East <b> 51: Leslie"
       }       
       },     
    { "type": "Feature", 
       "geometry": {"type": "Point", "coordinates": [-79.345324,43.775756]},
       "properties": {
-        "info": "<b>Don Mills Station</b> <b> Wheelchair Accessibility: </b> Yes <br> <b>Connections</b> <br> 10: Van Horne <br> 24B: Victoria Park <br> 25A/B/C: Don Mills <br> 85 A/B/D/J: Sheppard East <br> 167A/B: Pharmacy North <br> 169A/B: Huntington North <br> 925: Don Mills Express <br> 985A/B: Sheppard East Express <br> 325(Night): Don Mills <br> 385(Night): Sheppard East <br> <b> York Region Transit Connections: </b> <br> 24: Woodbine <br> 90/90B: Leslie <br> VIVA Green"
+        "info": "<b>Don Mills Station</b> <br> <b> Wheelchair Accessibility: </b> Yes <br> <b>Connections</b> <br> 10: Van Horne <br> 24B: Victoria Park <br> 25A/B/C: Don Mills <br> 85 A/B/D/J: Sheppard East <br> 167A/B: Pharmacy North <br> 169A/B: Huntington North <br> 925: Don Mills Express <br> 985A/B: Sheppard East Express <br> 325(Night): Don Mills <br> 385(Night): Sheppard East <br> <b> York Region Transit Connections: </b> <br> 24: Woodbine <br> 90/90B: Leslie <br> VIVA Green"
       }
       },      
     { "type": "Feature",
